@@ -1,0 +1,33 @@
+<h1 align=center> advanced web page by Caleb Thomson</h1>
+
+<font color=purple> prove you can use tables, lists, froms</font>
+
+<table border=1>
+<tr><tr>a</td><td><1</td></tr>
+<tr><tr>b</td><td><2</td></tr>
+<tr><tr>c</td><td><3</td></tr>
+<tr><tr>d</td><td><4</td></tr>
+<tr><tr>e</td><td><5</td></tr>
+<tr><tr>f</td><td><6</td></tr>
+<tr><tr>g</td><td><7</td></tr>
+<tr><tr>h</td><td><8</td></tr>
+<tr><tr>i</td><td><9</td></tr>
+<tr><tr>j</td><td><10</td></tr>
+</table>
+
+<ol> fav. foods
+<li> KD
+<li> meat
+</ol>
+
+<ul> fav. countries
+<li> Canada
+<li> Irland
+</ul>
+
+first name: <inupt type=text id="myText" value="caleb thomson"><br>
+<input type=checkbox><br>
+<input type=radio><br>
+
+<input type=hidden><input type=file>
+<input type =reset><input
